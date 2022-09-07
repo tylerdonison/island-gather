@@ -1,6 +1,4 @@
-# island-gather
-
-How to Use:
+# Island Gather 2.0
 
 ## Initial setup:
 
